@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "name": "Julian Agamez",
+            "age": 22,
+            "user": "julian",
+            "password": "Abc123"
+        },
+        {
+            "name": "John Doe",
+            "age": 25,
+            "user": "john",
+            "password": "Qwerty123"
+        }
+    ]
+}
